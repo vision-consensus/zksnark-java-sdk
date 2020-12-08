@@ -1,0 +1,5 @@
+[submodule "rust/librustzcash"]
+	path = rust/librustzcash
+	url = https://github.com/vision-consensus/librustzcash.git
+	branch = master
+	ignore=dirty
